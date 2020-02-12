@@ -8,7 +8,6 @@ public class SnSpringFApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SnSpringFApiApplication.class, args);
-		System.out.println("Hellow world!");
 	}
 
 }
